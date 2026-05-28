@@ -24,4 +24,4 @@ This platform is engineered to handle real-time data ingestion and display, serv
 * **Deployment:** Vercel
 
 ## Live Demo
-[https://picketa-platform-demo.vercel.app/](https://picketa-platform-demo.vercel.app/)
+https://enterprise-data-flow-analytics-platform.vercel.app/ [https://enterprise-data-flow-analytics-platform.vercel.app/]
